@@ -1,1 +1,1 @@
-Repo for anthrolabs.com
+Repo for http://anthrolabs.github.io
